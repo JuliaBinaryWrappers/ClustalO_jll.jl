@@ -1,0 +1,252 @@
+[[ClustalO]]
+arch = "aarch64"
+git-tree-sha1 = "901320d8a854a6d2b4c1456d819e12d73956013f"
+os = "macos"
+
+    [[ClustalO.download]]
+    sha256 = "dd661abd44b18e51198b74e3012228897d1295d24f8e40d8667b0ab3af90aad7"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.aarch64-apple-darwin.tar.gz"
+[[ClustalO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e785994efc0508609a0ba4c98ba00b17a864fa0"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "fc0a17aa36eab64f2f978e4e6cd60b8145d9b8d9650c3e1adb71b058e596672e"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[ClustalO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91c1a8d303b51d008882b0319482a9f1669c3d7e"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "b8687497b0169321d0df2d2799e5fa87668647c8805503c1997cbcd67944401e"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[ClustalO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2261f14512bb156d48b4b4dfcf84fef8dae0448"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "d3535605b0bf70675c2ab37c73bbd8cb9edf079cfa0aee36940680305752e54b"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.aarch64-linux-musl-cxx03.tar.gz"
+[[ClustalO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f32760cf34a247a2f926b7b43a627c99591b03c7"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "049026c9bea1c9b65b4ca5eccb0631c7875ee6a4ad08ff8ac2b593509a5e361c"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.aarch64-linux-musl-cxx11.tar.gz"
+[[ClustalO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57def19fce98cda554d2499528bc087c6e9e2d4f"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "b1a9cceff5f4e3ad8e02f4d0f26c3b48d7986f951c196c5b7209bdb5f3445744"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[ClustalO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b85e1a7dabc8186c206836a87aeb1712382663e"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "7d83ccc849d552a85ece9767fdd710983e7b5f966134fbfc81e49c2eb02a9842"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ClustalO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c10e1a5d8de5bf32b4a1c2cffeda7e29b075f53"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "e5a2255fb3ec55ffeb9d8c133d4b810070074e41491e6d17b66b1215eaa0def8"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[ClustalO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d90f4f6232bb590fcd2ee3f9368e1146fa56f671"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "31d67e964fb25daf1b7127f97f572bd2f77c74c829d288143688bd5e698221b3"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ClustalO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93bb9e5cb508ab21be97e768c2859ffe42919db0"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "6eb9b69401288c75c3dff84199493769596794043d7fe283f2da870e2df876d2"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ClustalO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0992db79eb5ef7d6ca792c860fbab28d324e7bea"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "032a015f03c8f87462bf8612b47a28913910279b1de25675bbc1fff340d33baa"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ClustalO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3665d64bb2df03af1e2d5fbbeecc1af39024db9f"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "8412b0024e819b951537c8cb0816ec85f73ddd3659819f641ef0e8ee220dee98"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ClustalO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b18505fae3e65fd1ccc4efe83830a2476c00a38"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "71156090e4f0ea03946b184178b5edf5a350df3df8577728c91c9602142d5815"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ClustalO]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "310350e644955c2ba11fa19fc21e750bba049016"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "0709264de2a5ff9f7f44e9c0294c4d4b8a04c3f1a86fe802550284c54ffae98d"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.i686-linux-gnu-cxx03.tar.gz"
+[[ClustalO]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cde79797ab335fdd93e6ccf828a8962e44598e8f"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "0bcb6b903ff35de9ce897d3b95a6bf79ee98f54b9a90f468cbcfb9186798e06c"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.i686-linux-gnu-cxx11.tar.gz"
+[[ClustalO]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c94784ceef4b925719c1a1e50412e1d477517252"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "f228e583406dd655ec76cf37cd34a11153cc2904a7d43ad82ec39ebfae42c475"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.i686-linux-musl-cxx03.tar.gz"
+[[ClustalO]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "569fa27842fc44f70427d778e8e2a10c436a1e6d"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "b92cd031216301444f88a0e9004e68cc1e7f2cae1b9ca79972b51824fdfe57fa"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.i686-linux-musl-cxx11.tar.gz"
+[[ClustalO]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecdb981b85dd5730480f8249f1456e92ea34c924"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "f29268b5cd0c7bc1dd09f179f06f2895429d3c16cb422092193b1c38f2996347"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ClustalO]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59e4fd1652c7e1cf73bf8c819db486053d935f63"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "933b9382d5fd4d285d0d458794b4bcc3d7fa22ecf545ef3479b2dfb6be7d39fe"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ClustalO]]
+arch = "x86_64"
+git-tree-sha1 = "785316734ef490e1d4c4e3738ad7935d2ac43442"
+os = "macos"
+
+    [[ClustalO.download]]
+    sha256 = "0857cbc0bdec03fa69d7df4524859241300d302ef1d982c7bca377e0d92d26f7"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.x86_64-apple-darwin.tar.gz"
+[[ClustalO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b97dd486b14e60c08595fff73fc076d74cc3fcdd"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "a6474402a59bee1f611f734bb9ed0f387ce26b66bd2163b7ca4d7c83a6342203"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[ClustalO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a46f11642db49ae282baa2789799a1254e884520"
+libc = "glibc"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "81ed6dcef45cc9919f9cf79eebeed6ab9e7d2e575b9175e7345c2f1c4b3d8213"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[ClustalO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4bcc19bc6656d943b848f979a32c1f391336ae50"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "68778e1a298fcc0652670413ff47a5c644ae4ff03ab5843e601010f8d7507ac7"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.x86_64-linux-musl-cxx03.tar.gz"
+[[ClustalO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7d37e30c57ad6a7d9773fd5053367559873f39a"
+libc = "musl"
+os = "linux"
+
+    [[ClustalO.download]]
+    sha256 = "639acb3c95238badc529b9b6559129d6ed332e0aa1cda53967bc5b35bb0a1eab"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.x86_64-linux-musl-cxx11.tar.gz"
+[[ClustalO]]
+arch = "x86_64"
+git-tree-sha1 = "4da74c98ae8df531de1113f497d21458af74a9ad"
+os = "freebsd"
+
+    [[ClustalO.download]]
+    sha256 = "58454485444056410815311afea66d759ccbbcef52caa016f5d27e68448a0894"
+    url = "https://github.com/JuliaBinaryWrappers/ClustalO_jll.jl/releases/download/ClustalO-v1.2.4+0/ClustalO.v1.2.4.x86_64-unknown-freebsd.tar.gz"
